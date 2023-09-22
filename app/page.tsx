@@ -10,11 +10,8 @@ export default function Home() {
       <Nav />
       <main className="flex flex-col flex-1 lg:pr-16">
         <About />
-
         <Code />
-
         <Languages />
-
         <Motion />
       </main>
       <div className="fixed top-0 z-10 bg-gradient-to-b from-white from-35% w-full h-28 -ml-4" />
