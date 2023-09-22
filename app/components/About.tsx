@@ -2,10 +2,11 @@ export default function About() {
   return (
     <section id="about" className="mr-24 mb-28 mt-16">
       <p className="mb-4 leading-relaxed">
-        Hey there! I'm <span className="font-semibold">Tino</span>, a tech-savvy
-        curious <span className="font-semibold">designer</span>, and an{' '}
-        <span className="font-semibold">engineer</span> that deeply cares about
-        aesthetics and experience. Love to tinker with code and build stuff.
+        Hey there! I&apos;m <span className="font-semibold">Tino</span>, a
+        tech-savvy curious <span className="font-semibold">designer</span>, and
+        an <span className="font-semibold">engineer</span> that deeply cares
+        about aesthetics and experience. Love to tinker with code and build
+        stuff.
       </p>
       <p className="mb-8 leading-relaxed">Father of two. Dog owner. Gamer.</p>
       <a
