@@ -16,6 +16,13 @@ export default function Motion() {
           className="rounded-lg mb-3"
         />
         <Image
+          src="/motion/retry_logo.gif"
+          width={400}
+          height={300}
+          alt=""
+          className="rounded-lg mb-3"
+        />
+        <Image
           src="/motion/63c164c4eeac172c3cc21565_Stripes_4-3_opt.gif"
           width={400}
           height={300}
