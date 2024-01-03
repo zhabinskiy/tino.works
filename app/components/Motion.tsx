@@ -4,8 +4,6 @@ import Showreel from '../components/Showreel'
 export default function Motion() {
   return (
     <section id="projects">
-      <h2 className="font-semibold mb-4">3D & Motion Design</h2>
-
       <Showreel />
       <div className="columns-2 gap-3 mt-4">
         <Image
