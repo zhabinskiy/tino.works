@@ -20,7 +20,7 @@ export default function Intro() {
         ZBrush, Substance Painter, Marvelous Designer.
       </p>
       <p className="mt-12 pt-12 border-t border-zinc-300 text-zinc-500 leading-relaxed">
-        While I'm working on the updated version of my site, you can check my latest works on <a href="https://dribbble.com/0x_tino" target="_blank" className="border-b border-zinc-700 text-zinc-900">Dribbble</a> or follow me on <a href="https://twitter.com/0x_tino" target="_blank" className="border-b border-zinc-700 text-zinc-900">Twitter</a>.
+        While I&apos;m working on the updated version of my site, you can check my latest works on <a href="https://dribbble.com/0x_tino" target="_blank" className="border-b border-zinc-700 text-zinc-900">Dribbble</a> or follow me on <a href="https://twitter.com/0x_tino" target="_blank" className="border-b border-zinc-700 text-zinc-900">Twitter</a>.
       </p>
     </section>
   )
