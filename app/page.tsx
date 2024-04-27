@@ -4,6 +4,7 @@ import About from './components/About'
 import Code from './components/Code'
 import Languages from './components/Languages'
 import Motion from './components/Motion'
+import Showreel from './components/Showreel'
 
 export default function Home() {
   return (
@@ -14,7 +15,10 @@ export default function Home() {
         {/* <About /> */}
         {/* <Code /> */}
         {/* <Languages /> */}
-        <Motion />
+        {/* <Motion /> */}
+        <section id="projects">
+          <Showreel />
+        </section>
       </main>
       <div className="fixed top-0 z-10 bg-gradient-to-b from-white from-35% w-full h-28 -ml-4" />
     </div>
